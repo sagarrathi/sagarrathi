@@ -29,6 +29,8 @@ Website: <https://dsmonk.com>
 
 **Skills:**
 
+        <img src="https://img.shields.io/github/contributors/badges/shields" />
+
 - Python, Javascript, HTML, CSS, SQL.
 - Django, Vue.js,  Pytorch, Flask, API, Postgresql, Mysql.
 - Git, Github, Docker,Jenkins,  Linux, Azure, AWS, Nginx,  Bash Script, Tableau, Excel.
