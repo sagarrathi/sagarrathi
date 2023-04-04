@@ -34,7 +34,7 @@ Website: <https://dsmonk.com>
     <a href=""><img src="https://img.shields.io/badge/lang-python-blue"/></a>
     <a href=""><img src="https://img.shields.io/badge/lang-javascript-yellow"/></a>
     <a href=#><img src="https://img.shields.io/badge/logo-javascript-yellow?logo=javascript&logoColor=yellow"></a>
-    
+    https://img.shields.io/badge/Vue.js-Framework-grey?logo=Vue.js&labelColor=ccfab1
 -->    
         
 - Python, Javascript, HTML, CSS, SQL.
