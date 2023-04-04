@@ -28,7 +28,11 @@ Website: <https://dsmonk.com>
 - Learning sourcing strategies 
 
 **Skills:**
-    <a href=""><img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+    <a href=""><img src="https://img.shields.io/badge/framework-django-darkgreen"/></a>
+    <a href=""><img src="https://img.shields.io/badge/lang-python-blue"/></a>
+    <a href=""><img src="https://img.shields.io/badge/lang-javascript-yellow"/></a>
+    
+    
         
 - Python, Javascript, HTML, CSS, SQL.
 - Django, Vue.js,  Pytorch, Flask, API, Postgresql, Mysql.
