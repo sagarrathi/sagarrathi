@@ -31,6 +31,7 @@ Website: <https://dsmonk.com>
     <a href=""><img src="https://img.shields.io/badge/framework-django-darkgreen?&logo=django&logoColor=darkgreen"/></a>
     <a href=""><img src="https://img.shields.io/badge/lang-python-blue"/></a>
     <a href=""><img src="https://img.shields.io/badge/lang-javascript-yellow"/></a>
+    <a href=#><img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5"></a>
     
     
         
