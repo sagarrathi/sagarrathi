@@ -2,64 +2,87 @@
 - 🌱 I’m currently learning: Advanced Django Concepts
 - 👀 I’m interested in building webapp
 
+**Sagar Rathi**
 
-Website: <https://dsmonk.com>		
+Website: [https://dsmonk.com](https://dsmonk.com/)
 
+Mail-Id: [sagarrathi1104@gmail.com](mailto:sagarrathi1104@gmail.com)
 
-**Summary:**  As a software developer and data scientist with over 4 years of experience, I specialize in creating custom web
-applications and AI solutions. I have a proven track record of success in building and managing complex web
-applications, optimizing operations, and driving growth. My technical skills include Python, Django, SQL,
-JavaScript, and Vue.js, among others, and I am committed to continuous learning and development.
+Phone: +91-7999712887 or 9685097866 ![Shape1](RackMultipart20230501-1-h8vte5_html_cdc562f080c00c1f.gif)
+
+**Summary:**
+
+As a software developer and data scientist with over 4 years of experience, I specialize in creating custom web applications and AI solutions. I have a proven track record of success in building and managing complex web applications, optimizing operations, and driving growth. My technical skills include Python, Django, SQL, JavaScript, and Vue.js, among others, and I am committed to continuous learning and development.
 
 **Experience:**
 
 **Deputy Manager Analytics | Dvara KGFS | Raipur, C.G. | Jan 2022 - Present**
 
-- Successfully created an automated application for report generation currently used by all branches. Deployed on VPS server and still manages it.
-- Developed real-time dashboards to show every operational insight of the company.  Deployed on VPS server and still manages it.
-- Cleaned internal data and made a pipeline for correct data insights.
+- Successfully created an automated application for report generation currently used by all branches. Deployed on VPS server and still manages it. This reduced the report generation work by 90%.
+- Developed real-time dashboards to show every operational insight of the company. Deployed on server and still manages it. This helped in increasing operational efficiency by 30%.
 
-**Technical Director | Rajshree Group Of Industries | Raipur, C.G. | Aug 2019 - Jan 2022** 
+**Technical Director | Rajshree Group Of Industries | Raipur, C.G. | Aug 2019 - Jan 2022**
 
-- Built software for recommending purchases from the auction. The application was for making raw material sourcing. Also deployed and managed the app.
-- Prepared an application for optimizing vehicle operations in the company. 
-- Supervised technical sourcing.
+- Built software for recommending purchases from the auction. The application was for making raw material sourcing. Also deployed and managed the app. The lots predicted are always sold higher by 9%.
+
+**MBA - Finance & Analytics | O.P. Jindal Global University | Delhi, India | 2017-2019**
 
 **Operations Manager | Rajshree Group Of Industries | Raipur, C.G. | June 2015 - July 2017**
 
-- Managing product manufacturing.
-- Learning sourcing strategies 
+- Prepared a python based application optimized the operating fleet by 5 times.
 
-**Skills:**
-<!---
+**Technical Skills:**
 
-    <a href=""><img src="https://img.shields.io/badge/framework-django-darkgreen?&logo=django&logoColor=darkgreen"/></a>
-    <a href=""><img src="https://img.shields.io/badge/lang-python-blue"/></a>
-    <a href=""><img src="https://img.shields.io/badge/lang-javascript-yellow"/></a>
-    <a href=#><img src="https://img.shields.io/badge/logo-javascript-yellow?logo=javascript&logoColor=yellow"></a>
-    https://img.shields.io/badge/Vue.js-Framework-grey?logo=Vue.js&labelColor=ccfab1
--->    
-        
-- Python, Javascript, HTML, CSS, SQL.
-- Django, Vue.js,  Pytorch, Flask, API, Postgresql, Mysql.
-- Git, Github, Docker,Jenkins,  Linux, Azure, AWS, Nginx,  Bash Script, Tableau, Excel.
-- Django REST Framework, Pandas, Numpy, Selenium(Web Scraping), Beautifulsoup (Web Scraping).
+- **Back-End** : Python, Django, Django REST Framework, RabbitMQ, Celery, Flask, Api.
+- **Front-End** : Javascript, Vue.js, HTML, CSS.
+- **Data Related:** SQL, Postgresql, Mysql, Pytorch,Tableau, Metabase.
+- **CICD:** Docker, Jenkins, Azure, AWS, Linux, Git, Github, Nginx, Bash Scripting.
 
-<a name="_heading=h.3dy6vkm"></a>**Online Profiles:**
+**Soft Skills:**
 
-- Personal Website:	**[*https://dsmonk.com*](https://dsmonk.com)**
-- GitHub Profile:	[*https://github.com/sagarrathi*](https://github.com/sagarrathi)	
-- Tableau Profile:	[*https://public.tableau.com/app/profile/rathi108*](https://public.tableau.com/app/profile/rathi108)
-- Linkedin Profile:	[*https://www.linkedin.com/in/rathi108/*](https://www.linkedin.com/in/rathi108/)
+- Continuous learning, Adapting, Clear & short communication, Public Speaking, Collaboration and Bridging technical context with business.
 
-<a name="_heading=h.qtk2dnlic2x6"></a>**Achievements:**
+**Online Profiles:**
 
-<a name="_heading=h.v6m1rpsap2rf"></a><a name="_heading=h.940co775lpus"></a>**Given TrailBlazer award | Dvara KGFS | 12th October 2022**
+- Portfolio Web App:[_https://dsmonk.com_](https://dsmonk.com/)
+- GitHub Profile: [_https://github.com/sagarrathi_](https://github.com/sagarrathi)
+- Tableau Profile: [_https://public.tableau.com/app/profile/rathi108_](https://public.tableau.com/app/profile/rathi108)
+- Linkedin Profile: [_https://www.linkedin.com/in/rathi108/_](https://www.linkedin.com/in/rathi108/)
 
-- <a name="_heading=h.s5ykzoozidqb"></a>For performance in Second Quarter FY 22-23 and making Automator and dashboard services for the company.
-- <a name="_heading=h.gf4khyf9sn1s"></a>These are generally given to members who have made something new for the company.
+**Achievements:**
 
-<a name="_heading=h.aei39ndxjsjc"></a><a name="_heading=h.9kkc8jrhnr8j"></a>**Called for Guest Lecture on Data Science | O.P. Jindal Global University | 3rd September 2021**
+**Given TrailBlazer award | Dvara KGFS | 12th October 2022**
 
-- I gave a hands-on guest lecture for the class of Dr. Sarveshwar Kumar Inani. 
-- <a name="_heading=h.5umznrk3fa0z"></a>This lecture was joined by many seniors faculties and personalities like Vijay Sardana (Advocate Supreme Court Of India).
+- For performance in Second Quarter FY 22-23 and making Automator and dashboard services for the company.
+- These are generally given to members who have made something new for the company.
+
+**Called for Guest Lecture on Data Science | O.P. Jindal Global University | 3rd September 2021**
+
+- Gave a hands-on guest lecture for the class of Dr. Sarveshwar Kumar Inani.
+- This lecture was joined by many seniors faculties and personalities (Advocate Supreme Court Of India).
+
+**Certifications:**
+
+- **Bash Scripting & Shell Programming** | Jason Cannon| Udemy | March 2022
+- **Advance CSS & Sass** | Jonas Schmedtmann| Udemy | February 2022
+- **Vue - The Complete Guide** | Maximilian Schwarzmüller | Udemy | December 2022
+- **Java Script Course** | Jonas Schmedtmann | Udemy | October 2022
+- **Python and Django Course** | [Jose Portilla](https://www.udemy.com/user/joseportilla/) | Udemy | September 2022
+- **The Complete SQL Bootcamp 2022** | Udemy | December 2021
+- **Deep Learning Specialization** | Andrew Ng | Coursera | April 2020
+- **Machine Learning Course** | Andrew Ng | Coursera | January 2020
+- **IBM Data Science Specialization by IBM** | Coursera | October 2019
+
+**Education:**
+
+**MBA - Finance & Analytics | O.P. Jindal Global University | Delhi, India | 2017-2019**
+
+- Designed various financial and statistical models related to corporate valuation and statistics.
+- Made a template for implementing State of Art approaches using PyTorch.
+- Developed a python code to download photos of 300 cricket players in 5 minutes using bs4 and pandas.
+- Wrote a python script to download 5 years OHLC and financial ratios data of all companies listed in NSE.
+
+**BE - EEE | Bhilai Institute of Technology | Durg, India | 2011-2015**
+
+- Programmed microcontrollers and fabricated many PCBs for projects.
+- Created an automatic data acquisition system for farmers which measures 5 features of soil and displayed charts via the Django website.
