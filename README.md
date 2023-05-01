@@ -41,7 +41,7 @@ As a software developer and data scientist with over 4 years of experience, I sp
 
 **Online Profiles:**
 
-- Portfolio Web App:[_https://dsmonk.com_](https://dsmonk.com/)
+- Portfolio Web App: [_https://dsmonk.com_](https://dsmonk.com/)
 - GitHub Profile: [_https://github.com/sagarrathi_](https://github.com/sagarrathi)
 - Tableau Profile: [_https://public.tableau.com/app/profile/rathi108_](https://public.tableau.com/app/profile/rathi108)
 - Linkedin Profile: [_https://www.linkedin.com/in/rathi108/_](https://www.linkedin.com/in/rathi108/)
