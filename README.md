@@ -6,7 +6,10 @@
 Website: <https://dsmonk.com>		
 
 
-**Summary:**  Coding since 2009, completed many private contracts. Now developing web apps for general or statistical and machine learning use cases. Made various analytics-based web apps which are still actively used by companies. Seeking to make at least 100 web apps. 
+**Summary:**  As a software developer and data scientist with over 4 years of experience, I specialize in creating custom web
+applications and AI solutions. I have a proven track record of success in building and managing complex web
+applications, optimizing operations, and driving growth. My technical skills include Python, Django, SQL,
+JavaScript, and Vue.js, among others, and I am committed to continuous learning and development.
 
 **Experience:**
 
