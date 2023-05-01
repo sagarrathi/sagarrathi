@@ -1,5 +1,5 @@
 **👋 Hi, I’m Sagar Rathi** 
-- 🌱 I’m currently learning: Advanced Django Concepts
+- 🌱 I’m currently learning: Some super secret tech skill
 - 👀 I’m interested in building webapp
 
 **Sagar Rathi**
