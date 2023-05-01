@@ -6,9 +6,6 @@
 
 Website: [https://dsmonk.com](https://dsmonk.com/)
 
-Mail-Id: [sagarrathi1104@gmail.com](mailto:sagarrathi1104@gmail.com)
-
-Phone: +91-7999712887 or 9685097866 ![Shape1](RackMultipart20230501-1-h8vte5_html_cdc562f080c00c1f.gif)
 
 **Summary:**
 
@@ -73,16 +70,3 @@ As a software developer and data scientist with over 4 years of experience, I sp
 - **Machine Learning Course** | Andrew Ng | Coursera | January 2020
 - **IBM Data Science Specialization by IBM** | Coursera | October 2019
 
-**Education:**
-
-**MBA - Finance & Analytics | O.P. Jindal Global University | Delhi, India | 2017-2019**
-
-- Designed various financial and statistical models related to corporate valuation and statistics.
-- Made a template for implementing State of Art approaches using PyTorch.
-- Developed a python code to download photos of 300 cricket players in 5 minutes using bs4 and pandas.
-- Wrote a python script to download 5 years OHLC and financial ratios data of all companies listed in NSE.
-
-**BE - EEE | Bhilai Institute of Technology | Durg, India | 2011-2015**
-
-- Programmed microcontrollers and fabricated many PCBs for projects.
-- Created an automatic data acquisition system for farmers which measures 5 features of soil and displayed charts via the Django website.
