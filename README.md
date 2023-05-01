@@ -64,7 +64,7 @@ As a software developer and data scientist with over 4 years of experience, I sp
 - **Advance CSS & Sass** | Jonas Schmedtmann| Udemy | February 2022
 - **Vue - The Complete Guide** | Maximilian Schwarzmüller | Udemy | December 2022
 - **Java Script Course** | Jonas Schmedtmann | Udemy | October 2022
-- **Python and Django Course** | [Jose Portilla](https://www.udemy.com/user/joseportilla/) | Udemy | September 2022
+- **Python and Django Course** | Jose Portilla| Udemy | September 2022
 - **The Complete SQL Bootcamp 2022** | Udemy | December 2021
 - **Deep Learning Specialization** | Andrew Ng | Coursera | April 2020
 - **Machine Learning Course** | Andrew Ng | Coursera | January 2020
