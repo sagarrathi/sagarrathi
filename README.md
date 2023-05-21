@@ -4,9 +4,6 @@
 - 👀 I’m interested in building webapp
 -->
 
-
-**Sagar Rathi**
-
 Website: [https://dsmonk.com](https://dsmonk.com/)
 
 
